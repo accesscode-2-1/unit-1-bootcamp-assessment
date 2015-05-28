@@ -21,10 +21,9 @@
 10. Submit a pull request with all your code.
 
 
-Test Start time: Thu May 28, 7:00pm EST  (05/28/15 7:35 PM)
+Test Start time: 05/28/15 7:35 PM
 
-My End time: `<insert here>`
+My End time: 05/28/15 7:57 PM
 
-Test End time: Fri May 29, 10:00pm EST
 
-Total time: 27 hours
+
