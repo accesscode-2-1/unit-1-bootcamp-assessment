@@ -1,6 +1,6 @@
 # unit-1-bootcamp
 
-1. Fork this repository. In your README, mark down your start time.
+1. Fork this repository. In your README, mark down your start time. : 7:25 5/28/15
 
 2. Create a new class, `MyObject`. A `MyObject` has a name (`String`) and an age (`int`).
 
@@ -23,7 +23,7 @@
 
 Test Start time: Thu May 28, 7:00pm EST
 
-My End time: `<insert here>`
+My End time: 7:49pm 5/28/15
 
 Test End time: Fri May 29, 10:00pm EST
 
