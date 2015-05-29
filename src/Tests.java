@@ -6,6 +6,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.*;
 
@@ -44,7 +45,7 @@ public class Tests {
         ClassLoader cl = ClassLoader.getSystemClassLoader();
         Class<?> klass = cl.loadClass("MyObjectNode");
         Method[] methods = klass.getMethods();
-        ArrayList<String> methodNames = new ArrayList<>();
+        ArrayList<String> methodNames = new ArrayList<String>();
         for (Method m : methods){
             methodNames.add(m.getName());
         }
@@ -60,7 +61,7 @@ public class Tests {
         Class<?> klass = cl.loadClass("MyObject");
 
         Method[] methods = klass.getMethods();
-        ArrayList<String> methodNames = new ArrayList<>();
+        ArrayList<String> methodNames = new ArrayList<String>();
         for (Method m : methods){
             methodNames.add(m.getName());
         }
