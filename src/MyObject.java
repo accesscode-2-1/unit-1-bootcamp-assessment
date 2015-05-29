@@ -56,7 +56,6 @@ public class MyObject
 
         MyObject object4=new MyObject("Larry",20);
 
-
         System.out.println((object3.equals(object4)));
 
     }

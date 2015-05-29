@@ -26,6 +26,6 @@ Test Start time: Thu May 28, 7:25pm EST
 
 My End time: `<insert here>`
 
-Test End time: Fri May 29, 7:00pm EST
+Test End time: Fri May 29, 8:26pm EST
 
 Total time: 27 hours

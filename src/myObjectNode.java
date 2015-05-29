@@ -24,7 +24,6 @@ public class MyObjectNode extends MyNode
     @Override
     public void insert(MyNode newNode)
     {
-
     }
 
     public void setRight(){}
