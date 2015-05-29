@@ -5,8 +5,8 @@
  */
 public class MyObject
 {
-  private  String name;
-  private  int age;
+    private String name;
+    private int    age;
 
     public MyObject(String name, int age)
     {
@@ -34,6 +34,18 @@ public class MyObject
         this.age = age;
     }
 
-
+    @Override
+    public boolean equals(Object o)
+    {
+        if(o instanceof MyObject)
+        {
+            MyObject myO = (MyObject) o;
+            if(getName() == getName() & getAge() == getAge())
+            {
+                return true;
+            }
+        }
+        return false;
+    }
 
 }

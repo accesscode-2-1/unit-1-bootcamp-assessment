@@ -34,12 +34,8 @@ public abstract class MyObjectNode extends MyNode
     public void setData(){
 
     }
-    @Override
-    public void insert(MyNode newNode)
-    {
+//abstract methods
+    public abstract void printData();
 
-    }
-
-
-
+    public abstract void directions();
 }
