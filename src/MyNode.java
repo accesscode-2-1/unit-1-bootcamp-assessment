@@ -2,9 +2,9 @@
  * Created by amyquispe on 5/28/15.
  */
 public abstract class MyNode<T> {
-    private MyNode left;
-    private MyNode right;
-    private T data;
+    protected MyNode left;
+    protected MyNode right;
+    protected T data;
 
     public abstract MyNode getLeft();
 
@@ -12,7 +12,14 @@ public abstract class MyNode<T> {
 
     public abstract T getData();
 
+    public abstract void setLeft(MyNode left);
+
+    public abstract void setRight(MyNode right);
+
+    public abstract void setData(T data);
+
     public abstract void insert(MyNode<T> newNode);
+
     public boolean contains(T someData){
         if(getData()==null && someData == null){
             return false;
@@ -25,4 +32,6 @@ public abstract class MyNode<T> {
 
         return left || right;
     }
+
+
 }
