@@ -23,7 +23,7 @@
 
 Test Start time: Thu May 28, 7:00pm EST
 
-My End time: `<insert here>`
+My End time: `<>`
 
 Test End time: Fri May 29, 10:00pm EST
 
