@@ -1,5 +1,6 @@
 # unit-1-bootcamp
-
+Start: 7:23
+End:
 1. Fork this repository. In your README, mark down your start time.
 
 2. Create a new class, `MyObject`. A `MyObject` has a name (`String`) and an age (`int`).
@@ -21,9 +22,9 @@
 10. Submit a pull request with all your code.
 
 
-Test Start time: Thu May 28, 7:00pm EST
+Test Start time: Thu May 28, 7:25pm EST
 
-My End time: `<insert here>`
+My End time: `<8:25>`
 
 Test End time: Fri May 29, 10:00pm EST
 
