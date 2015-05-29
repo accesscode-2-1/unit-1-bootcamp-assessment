@@ -14,6 +14,7 @@ public class Tests {
 
     @Test
     public void test01InheritanceParent() throws Exception {
+
         Exercises.Parent p = new Exercises.Parent();
         assertEquals("parent", p.doStuff());
         assertThat(p, instanceOf(Exercises.Parent.class));
