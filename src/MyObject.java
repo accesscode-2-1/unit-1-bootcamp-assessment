@@ -6,18 +6,8 @@ public class MyObject
     String name;
     int    age;
 
-
     public MyObject(String name, int age)
     {
-        MyObject object1=new MyObject(name,age);
-
-        MyObject object2=new MyObject(name,age);
-
-        if(object1.getName()==object2.getName()&&object1.getAge()==object2.getAge()){
-
-            object1=object2;
-        }
-
     }
 
     public String getName()
@@ -27,6 +17,7 @@ public class MyObject
 
     public void setName(String name)
     {
+
         this.name = name;
     }
 
@@ -37,12 +28,36 @@ public class MyObject
 
     public void setAge(int age)
     {
+
         this.age = age;
     }
+
+    @Override
+    public boolean equals(Object obj)
+    {
+        if(obj==null){return false;}
+
+        if (obj instanceof MyObject) {
+            MyObject object = (MyObject) obj;
+            if (this.name.equalsIgnoreCase(object.name) && this.age == object.age)
+            {
+                return true;}
+                  }
+                return false;
+          }
 
 
     public static void main(String[] args)
     {
+
+        MyObject object3=new MyObject("Larry",20);
+        object3.setName("LARRY");
+        object3.setAge(20);
+        MyObject object4=new MyObject("Larry",20);
+        object4.setAge(20);
+        object4.setName("LARRY");
+
+        System.out.println((object3.equals(object4)));
 
     }
 }
