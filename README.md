@@ -27,4 +27,4 @@ My End time: 8:00pm EST
 
 Test End time: Fri May 29, 10:00pm EST
 
-Total time: 27 hours
+Total time: 30 minutes(10 minutes for procrastination)
