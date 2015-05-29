@@ -8,5 +8,16 @@ public class Exercises {
         public String doStuff(String s) { return s; }
     }
 
+    public static void main(String[] args)
+    {
+        Parent mom = new Parent();
+        Child son = new Child();
+
+        System.out.println(mom.doStuff());
+        System.out.println(son.doStuff());
+        System.out.println(son.doStuff("Hello!"));
+
+    }
+
 
 }
