@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39180fd8-7e82-42d8-b61b-ec74ce572bee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyObjectNode.java" afterPath="$PROJECT_DIR$/src/MyObjectNode.java" />
     </list>
     <ignored path="unit-1-bootcamp-assessment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,24 +33,14 @@
       <file leaf-file-name="MyObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="1455">
-              <caret line="39" column="44" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="1455">
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding>
                 <element signature="e#388#389#0" expanded="true" />
                 <element signature="e#420#421#0" expanded="true" />
                 <element signature="e#459#460#0" expanded="true" />
                 <element signature="e#489#490#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63114756" vertical-offset="144" max-vertical-offset="540">
-              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -68,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyObjectNode.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyObjectNode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyObjectNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="641" max-vertical-offset="1035">
-              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            <state vertical-scroll-proportion="1.3836317" vertical-offset="569" max-vertical-offset="1440">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding>
                 <element signature="e#158#159#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
@@ -113,8 +103,8 @@
         <option value="$PROJECT_DIR$/src/MyNode.java" />
         <option value="$PROJECT_DIR$/src/MyObject.java" />
         <option value="$PROJECT_DIR$/src/Exercises.java" />
-        <option value="$PROJECT_DIR$/src/MyObjectNode.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/MyObjectNode.java" />
       </list>
     </option>
   </component>
@@ -520,19 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="1455">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="44" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1065">
@@ -540,6 +517,27 @@
           <folding>
             <element signature="e#1619#1627#0" expanded="true" />
             <element signature="e#2146#2154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63114756" vertical-offset="144" max-vertical-offset="540">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1064" max-vertical-offset="1455">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -554,8 +552,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyObjectNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="641" max-vertical-offset="1035">
-          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        <state vertical-scroll-proportion="1.3836317" vertical-offset="569" max-vertical-offset="1440">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="e#158#159#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
@@ -570,14 +568,6 @@
             <element signature="e#591#592#0" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63114756" vertical-offset="144" max-vertical-offset="540">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
