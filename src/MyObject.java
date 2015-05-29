@@ -8,6 +8,8 @@ public class MyObject
 
     public MyObject(String name, int age)
     {
+        this.name=name;
+        this.age =age;
     }
 
     public String getName()

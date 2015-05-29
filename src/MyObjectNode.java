@@ -3,37 +3,41 @@
  */
 public class MyObjectNode extends MyNode
 {
-    public MyObjectNode setLeft()
+    protected MyNode left;
+    protected MyNode right;
+    protected MyNode data;
+
+    public void  setLeft(MyNode Left)
     {
-        return null;
+        this.left=left;
     }
 
-    public MyObjectNode setRight()
+    public void  setRight(MyNode Right)
     {
-        return null;
+        this.right=right;
     }
 
-    public MyObjectNode setData()
+    public void  setData(MyNode Data)
     {
-        return null;
+        this.data=data;
     }
 
     @Override
     public MyNode getLeft()
     {
-        return null;
+        return left;
     }
 
     @Override
     public MyNode getRight()
     {
-        return null;
+        return right;
     }
 
     @Override
     public Object getData()
     {
-        return null;
+        return data;
     }
 
     @Override
