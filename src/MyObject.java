@@ -8,6 +8,8 @@ public class MyObject
 
     public MyObject(String name, int age)
     {
+        this.name=name;
+        this.age=age;
     }
 
     public String getName()
@@ -51,11 +53,9 @@ public class MyObject
     {
 
         MyObject object3=new MyObject("Larry",20);
-        object3.setName("LARRY");
-        object3.setAge(20);
+
         MyObject object4=new MyObject("Larry",20);
-        object4.setAge(20);
-        object4.setName("LARRY");
+
 
         System.out.println((object3.equals(object4)));
 
