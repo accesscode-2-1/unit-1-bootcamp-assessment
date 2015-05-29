@@ -8,5 +8,15 @@ public class Exercises {
         public String doStuff(String s) { return "Howdy"; }
     }
 
+    public static void main(String[] args) {
+        Parent p = new Parent();
+        System.out.println( p.doStuff());
+
+        Child c = new Child();
+        System.out.println(c.doStuff());
+        System.out.println(c.doStuff("Test"));
+
+    }
+
 
 }
