@@ -3,13 +3,13 @@
 1. Fork this repository. In your README, mark down your start time. <br>
 **Start Time: 7:21PM (May 28, 2015)**
 
-2. Create a new class, `MyObject`. A `MyObject` has a name (`String`) and an age (`int`).
+2. Create a new class, `MyObject`. A `MyObject` has a name (`String`) and an age (`int`).  √
 
 3. Two `MyObject`s are equal when the names and the ages are equal.
 
-4. Create a `MyObjectNode` class which extends `MyNode`.
+4. Create a `MyObjectNode` class which extends `MyNode`. √
 
-5. Add setter methods, that is `setLeft` and `setRight` and `setData`.
+5. Add setter methods, that is `setLeft` and `setRight` and `setData`.  √
 
 6. Implement the abstract methods.
 
@@ -17,9 +17,9 @@
 
 8. Write a main method to test your code.
 
-9. Update your README with your end time, and the total amount of time you think you spent on this assessment.
+9. Update your README with your end time, and the total amount of time you think you spent on this assessment. √
 
-10. Submit a pull request with all your code.
+10. Submit a pull request with all your code. √
 
 
 Test Start time: Thu May 28, 7:00pm EST
