@@ -13,7 +13,7 @@
 
 6. Implement the abstract methods.
 
-7. Run the tests in [src/Tests.java](src/Tests.java).
+7. Run the tests in [src/Tests.java](src/Tests.java). √
 
 8. Write a main method to test your code.
 
