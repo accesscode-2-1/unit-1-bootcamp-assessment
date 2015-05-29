@@ -2,9 +2,9 @@
  * Created by amyquispe on 5/28/15.
  */
 public abstract class MyNode<T> {
-    private MyNode left;
-    private MyNode right;
-    private T data;
+    protected MyNode left;
+    protected MyNode right;
+    protected T data;
 
     public abstract MyNode getLeft();
 
