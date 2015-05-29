@@ -28,3 +28,6 @@ My End time: `<insert here>`
 Test End time: Fri May 29, 10:00pm EST
 
 Total time: 27 hours
+
+
+50 minutes or so to complete assessment.

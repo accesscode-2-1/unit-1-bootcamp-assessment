@@ -20,7 +20,7 @@ public class MyObjectNode extends MyNode {
 
     @Override
     public void insert(MyNode newNode) {
-                                          //add this my node
+                                    //add this my node
     }
 
 
