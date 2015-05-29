@@ -7,17 +7,64 @@ import java.util.HashMap;
  * Janneisy Vidals
  *
  */
-public abstract class MyObjectNode extends MyNode
+public class MyObjectNode extends MyNode
 {
+//    public MyObjectNode()
+//    {
+//
+//    }
+//
+//    @Override
+//    public MyNode setLeft()
+//    {
+//        return null;
+//    }
+//
+//    @Override
+//    public MyNode setRight()
+//    {
+//        return null;
+//    }
+//
+//    @Override
+//    public Object setData()
+//    {
+//        return null;
+//    }
+
+
     public MyObjectNode()
     {
+    }
 
+    @Override
+    public MyNode getLeft()
+    {
+        return null;
+    }
+
+    @Override
+    public MyNode getRight()
+    {
+        return null;
     }
 
     @Override
     public MyNode setLeft()
     {
         return null;
+    }
+
+    @Override
+    public Object getData()
+    {
+        return null;
+    }
+
+    @Override
+    public void insert(MyNode newNode)
+    {
+
     }
 
     @Override
@@ -31,6 +78,4 @@ public abstract class MyObjectNode extends MyNode
     {
         return null;
     }
-
-
 }

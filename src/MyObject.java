@@ -8,21 +8,12 @@
  */
 public class MyObject
 {
-    int    age;
-    String name;
+    private int age;
+   private String name;
 
-    public MyObject (int age, String name)
+    public int getAge()
     {
-        this.age = age;
-        this.name = name;
-
-    }
-
-
-
-    public void setName(String name)
-    {
-        this.name = name;
+        return age;
     }
 
     public void setAge(int age)
@@ -30,30 +21,13 @@ public class MyObject
         this.age = age;
     }
 
-    public int getAge()
-    {
-        return age;
-    }
-
     public String getName()
     {
         return name;
     }
 
-    @Override
-    public boolean equals(Object obj)
+    public void setName(String name)
     {
-        return super.equals(obj);
-    }
-
-
-    public boolean equals(String name, String name2){
-
-        name= "Jan";
-        name2= "Jan";
-
-        if(name.equalsIgnoreCase(name2));
-        return true;
-
+        this.name = name;
     }
 }
