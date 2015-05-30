@@ -1,3 +1,6 @@
+I spent approximately 4 hours on this.
+
+
 # unit-1-bootcamp
 
 1. Fork this repository. In your README, mark down your start time.
