@@ -7,5 +7,10 @@ public class Main
 {
     public static void main(String[] args) {
 
+
+        Exercises.Child c = new Exercises.Child();
+
+        System.out.println(c.doStuff());
+        System.out.println(c.doStuff("aye bay bay"));
     }
 }
