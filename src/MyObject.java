@@ -5,12 +5,12 @@ public class MyObject {
     String name;
     int age;
 
-    MyObject() {
+    public MyObject() {
         name = null;
         age = 0;
     }
 
-    MyObject(String newName, int newAge){
+    public MyObject(String newName, int newAge){
         this.name = newName;
         this.age = newAge;
     }
